@@ -33,7 +33,7 @@ finish of the mission :)
 ![Capture](https://github.com/Chamrah/Download-video-from-Youtube/assets/147912275/b3a7ee09-9acd-4a0c-b284-2641df9404e3)
 
 
-
+if you want test the program you should download the libraries(Tkinter,Pytube...)
 
 
 
